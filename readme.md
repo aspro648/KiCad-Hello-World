@@ -1,13 +1,14 @@
 Introduction
 ------------
 
-![Project](images/project.png)![Teardown](images/Teardown2018.jpg)
+![Project](images/project.png) ![Teardown](images/Teardown2018.jpg)
 
 In programing, "Hello World" is the first program you write when you are learning a new language, so here it is for making printed circuit boards using open source [KiCad](http://kicad-pcb.org/).  This was for a one hour talk at [Teardown 2018](https://www.crowdsupply.com/teardown/portland-2018#schedule) in Portland, Oregon. Video of the presentation is on [Youtube](https://youtu.be/aWO80QdqLBQ).
 
 Bill Of Materials
 -----------------
   
+- 1 ea. Perfect Purple PCB, https://oshpark.com/shared_projects/xqKKUJBu  
 - 1 ea. Battery Holder, Keystone 3001, https://www.digikey.com/short/jmtqqd
 - 1 ea. 3mm LED, https://www.digikey.com/short/jmtqj0
 - 2 ea. 100 ohm resistors 1/4w, https://www.digikey.com/short/jmtqz7
