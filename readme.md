@@ -1,9 +1,9 @@
 Introduction
 ------------
 
-![Project](images/project.png) 
-Introction:
-In programing, "Hello World" is the first program you write when you are learning a new language, so here it is for printed circuit boards.  This was for a one hour talk at [Teardown 2018](https://www.crowdsupply.com/teardown/portland-2018#schedule) in Portland, Oregon. Video of the presentation is on [Youtube]
+![Project](images/project.png)[Teardown](images/Teardown2018.jpg)
+
+In programing, "Hello World" is the first program you write when you are learning a new language, so here it is for printed circuit boards.  This was for a one hour talk at [Teardown 2018](https://www.crowdsupply.com/teardown/portland-2018#schedule) in Portland, Oregon. Video of the presentation is on [Youtube](https://youtu.be/aWO80QdqLBQ).
 
 Bill Of Materials
 -----------------
@@ -24,7 +24,7 @@ None
 
 Assembly Instructions
 ---------------------
-Not yet.
+Check out Adafruit's excellent [soldering tutorial](https://learn.adafruit.com/adafruit-guide-excellent-soldering/).
 
 License
 -------
